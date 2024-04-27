@@ -1,6 +1,5 @@
 
 import cv2
-import time
 
 image_name=input("enter image name: ")     #image name
 IMAGE = cv2.imread(image_name +'.jpg');
