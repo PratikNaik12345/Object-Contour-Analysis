@@ -24,7 +24,7 @@ enter name without ".jpg".
 output image will be displayed in new window.
 
 ## Demo
-![demoimage](demo.png)
+![demoimage](Demo.png)
 
 
 ## Author
